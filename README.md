@@ -11,10 +11,11 @@ Acesse minha **[página](https://jefferds.github.io/)** para mais informações.
 
 ## Minhas áreas de interesses:
 
-![Energia](https://img.shields.io/badge/Energy-∮-red.svg)
+![](https://img.shields.io/badge/Energy-∮-red.svg)
 ![](https://img.shields.io/badge/Inovation-💡-orange.svg)
 ![](https://img.shields.io/badge/Programming-💻-green.svg)
-![](https://img.shields.io/badge/Julia--green.svg)
+![](https://img.shields.io/badge/Julia-9558B2.svg?color=9558B2&logo=Julia&logoColor=white)
+
 ## Áreas de atuação
 
 - Simulação e otimização de desempenho de turbomáquinas.
@@ -23,3 +24,5 @@ Acesse minha **[página](https://jefferds.github.io/)** para mais informações.
 - Programação em linguagem julia.
 - Manutenção e Confiabilidade.
 - Mecânica dos Sólidos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
