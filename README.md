@@ -5,7 +5,7 @@ Engenheiro mecânico e professor.
 [![Twitter](https://img.shields.io/badge/twitter-@FrancoJefferds-blue.svg)](https://twitter.com/@FrancoJefferds)
 [![LinkedIn](https://img.shields.io/badge/linkedin-@FrancoJSSilva-orange.svg)](https://www.linkedin.com/in/franco-j-s-silva-15666627/)
 
-Acesse minha **[página](https://jefferds.github.io/)** para mais informações.
+_**[Home Page: jefferds.github.io](https://jefferds.github.io/)**_
 
 ![Franco Jefferds's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferds&show_icons=true&theme=radical)
 
